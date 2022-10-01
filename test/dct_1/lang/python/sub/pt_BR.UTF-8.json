@@ -1,0 +1,16 @@
+{
+	"tokens":{
+		"&$var":"variable", 						//put variable
+		"&$var#":"variable #", 						//put variable
+		"&$trn":									//put variable after translation
+			"translate"
+			" from 'lang://python/sub/default.json'"
+			" to 'lang://python/sub/pt_BR.UTF-8.json'",
+		"&$clt":"get current_local_time"			//put current_local_time
+	},
+
+	"list":{
+		"generic_error_1":
+			" -[!]- Você encontrou um erro do tipo '&$trn' que emitiu a mensagem '&$var'. Tempo: &$ "
+	}
+}

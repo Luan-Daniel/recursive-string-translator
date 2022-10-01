@@ -1,0 +1,16 @@
+{
+	"interpreter":"1.X",
+
+	"name":"Test Dict_1",
+	"description":"Primeiro dicionario de testes",
+
+	"id":"ACDFBECBDCABFECD1341432143142",
+	"version":"0.0.1a",
+
+	"lang":{
+		"pyhton":[
+			"default",
+			"pt_BR.UTF-8"
+		]
+	}
+}

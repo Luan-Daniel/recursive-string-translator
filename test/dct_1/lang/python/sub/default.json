@@ -1,0 +1,11 @@
+{
+	"tokens":{
+		"&$var":"variable", //get variable
+		"&$ign":"ignore"	//ingore variable
+	},
+
+	"list":{
+		"generic_error_1":
+			"[!] &$var: &$var"
+	}
+}
